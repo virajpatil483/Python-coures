@@ -1,1 +1,1 @@
-# Python-coures
+# Python-course
